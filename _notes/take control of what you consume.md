@@ -10,3 +10,6 @@ And it means that while there *should* always be something to write about, this 
 Building a second brain can help sort through the noise, help you take control of what you consume and form connections that then build into ideas and content.
 
 But, a mostly frictionless system is needed to work through this (and then to publish - [[reduce friction in publishing]]); don't add more complications!
+
+## Read more:
+[Stop Giving af and Start Writing More](https://joelhooks.com/on-writing-more)
