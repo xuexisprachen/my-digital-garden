@@ -8,7 +8,7 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Check out [[what's top of mind | 🤔 What's top of mind?]] to see what I'm thinking about right now and get started.
+  Check out [[what's top of mind|🤔 What's top of mind?]] to see what I'm thinking about right now and get started.
 </p>
 
 I'm Charlotte.
