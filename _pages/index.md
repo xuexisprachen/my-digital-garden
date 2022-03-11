@@ -8,7 +8,7 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold"><a class="internal-link" href="/why-learn-a-foreign-language">Why learn a foreign language?</a></span> to get started on your exploration.
+  Check out [[what's top of mind | 🤔 What's top of mind?]] to see what I'm thinking about right now and get started.
 </p>
 
 I'm Charlotte.
