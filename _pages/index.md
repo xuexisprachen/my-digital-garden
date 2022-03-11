@@ -11,9 +11,13 @@ permalink: /
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+I'm Charlotte.
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). 👋
+This isn't a blog. [I have a blog.](https://xuexisprachen.com) In fact, more than one, since I've been writing things on the internet for as long as I've been on here. Most of them are lost, which is not necessarily a bad thing!
+
+But no, this is a place to put... everything, more or less. It's my digital garden, so for sure some of the stuff here isn't going to be perfect or fully thought through. It's a place to learn in public. A place to grow.
+
+Feel free to poke around! It's good to have you here.
 
 <style>
   .wrapper {
