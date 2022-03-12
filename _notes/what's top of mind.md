@@ -13,3 +13,6 @@ Inspiration taken from [Andy Matuschak's note](https://notes.andymatuschak.org/A
 ### To Read:
 [Learn in Public - swyx.io](https://www.swyx.io/learn-in-public/)
 [How to Use Deliberate Practice to Become a Better Writer - Ben McEvoy](https://benjaminmcevoy.com/use-deliberate-practice-become-better-writer/)
+[How Deliberate Practice Can Make You an Excellent Writer - Victoria Strauss](https://www.sfwa.org/2010/10/04/guest-blog-post-how-deliberate-practice-can-make-you-an-excellent-writer/)
+[34 Ways To Deliberately Grow Your Writing Practice (And Meet Your Edge!) - Lucy Flint](http://www.lucyflint.com/blog-1/deliberately-practice-writing)
+[How to Deliberately Practice Writing - Jackie Williams](https://medium.com/@JackieWilliams/how-to-deliberately-practice-writing-8e4b7aeee510)
