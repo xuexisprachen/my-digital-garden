@@ -1,5 +1,5 @@
 ---
-[title: Deliberate practice and writing]
+title: Deliberate practice and writing
 ---
 🌱
 
